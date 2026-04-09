@@ -1,6 +1,6 @@
 # Training Handbook
 
-Evidence-based resistance training program integrating levoscoliosis corrective work and gluteal tendinopathy rehabilitation.
+Evidence-based resistance training program integrating levoscoliosis corrective work and gluteal tendinopathy rehabilitation. Adapt accordingly.
 
 ## Deploy to GitHub Pages
 
